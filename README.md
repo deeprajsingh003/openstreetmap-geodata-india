@@ -1,0 +1,49 @@
+# GEOData Visualization using Python & SQLite
+
+This project demonstrates how to retrieve, process, store, and visualize geolocation data using Python, SQLite, and OpenStreetMap APIs.
+
+# 📌 Project Origin
+This project is based on a guided academic assignment from the Using Databases with Python course (Python for Everybody Specialization) by the University of Michigan (Dr. Charles Severance).
+
+The original starter code was provided as part of the course.  
+I independently executed, customized, and extended the project to strengthen my hands-on understanding.
+
+#🔧 What I Modified
+- Replaced default sample locations with **India Bengaluru landmarks and public places**
+- Re-ran the complete data pipeline independently
+- Debugged execution issues and API delays
+- Added documentation and screenshots for clarity
+
+# 🛠 Technologies Used
+- Python
+- SQLite
+- OpenStreetMap (Geocoding API)
+- HTML & JavaScript
+- JSON
+- Command Line (Windows PowerShell)
+
+# 🔄 Project Workflow
+1. Locations are defined in `where.data`
+2. `geoload.py` fetches latitude & longitude using a geocoding API
+3. Data is stored in an SQLite database
+4. `geodump.py` generates a JavaScript file (`where.js`)
+5. `where.html` visualizes the data on an interactive map
+
+# 📸 Screenshots
+Screenshots of terminal execution and map visualization are included in the `project screenshots/` folder.
+
+# 📚 What I Learned
+- Working with external APIs and rate limits
+- Storing structured data using SQLite
+- Transforming data between Python and JavaScript
+- Visualizing real-world data on maps
+- Debugging multi-step data pipelines
+
+# 🚀 Future Improvements
+- Add clustering for dense locations
+- Improve map styling
+- Integrate Google Maps API as an alternative
+
+# 🧾 Disclaimer
+This project is **educational** and based on a guided course assignment.  
+All customizations, execution, and documentation were done independently for learning purposes.
