@@ -31,8 +31,11 @@ I independently executed, customized, and extended the project to strengthen my 
 
 # 📸 Screenshots
 Screenshots of terminal execution and map visualization are included in the `project screenshots/` folder and even here
+screeshot of running geoload.py in terminal
 <img width="880" height="701" alt="running geoload py in terminal" src="https://github.com/user-attachments/assets/49b8fa5b-38e5-469f-a021-ecf2fd47d6bd" />
+screeshot of running geodump.py in terminal
 <img width="1357" height="713" alt="running geodump py in terminal" src="https://github.com/user-attachments/assets/480dd5ad-b833-4c6d-af76-8197f54b5f5f" />
+screeshot of mentioned india bengaluru locations data in map
 <img width="1365" height="638" alt="mentioned india bengaluru locations data in map" src="https://github.com/user-attachments/assets/09413b66-149c-4f63-8db9-eab30787cef3" />
 
 
