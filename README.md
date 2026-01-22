@@ -6,9 +6,10 @@ This project demonstrates how to retrieve, process, store, and visualize geoloca
 This project is based on a guided academic assignment from the Using Databases with Python course (Python for Everybody Specialization) by the University of Michigan (Dr. Charles Severance).
 
 The original starter code was provided as part of the course.  
+
 I independently executed, customized, and extended the project to strengthen my hands-on understanding.
 
-##🔧 What I Modified
+## 🔧 What I Modified
 - Replaced default sample locations with **India Bengaluru landmarks and public places**
 - Re-ran the complete data pipeline independently
 - Debugged execution issues and API delays
@@ -31,7 +32,7 @@ I independently executed, customized, and extended the project to strengthen my 
 
 ## 📸 Screenshots
 
-# Screenshots of the terminal execution and map visualization are included in the `project screenshots/` folder and below.
+Screenshots of the terminal execution and map visualization are included in the `project screenshots/` folder and below.
 
 # screeshot of running geoload.py in terminal
 <img width="880" height="701" alt="running geoload py in terminal" src="https://github.com/user-attachments/assets/49b8fa5b-38e5-469f-a021-ecf2fd47d6bd" />
@@ -43,18 +44,18 @@ I independently executed, customized, and extended the project to strengthen my 
 <img width="1365" height="638" alt="mentioned india bengaluru locations data in map" src="https://github.com/user-attachments/assets/09413b66-149c-4f63-8db9-eab30787cef3" />
 
 
-# 📚 What I Learned
+## 📚 What I Learned
 - Working with external APIs and rate limits
 - Storing structured data using SQLite
 - Transforming data between Python and JavaScript
 - Visualizing real-world data on maps
 - Debugging multi-step data pipelines
 
-# 🚀 Future Improvements
+## 🚀 Future Improvements
 - Add clustering for dense locations
 - Improve map styling
 - Integrate Google Maps API as an alternative
 
-# 🧾 Disclaimer
+## 🧾 Disclaimer
 This project is **educational** and based on a guided course assignment.  
 All customizations, execution, and documentation were done independently for learning purposes.
