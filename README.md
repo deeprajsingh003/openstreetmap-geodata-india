@@ -1,20 +1,20 @@
-# GEOData Visualization using Python & SQLite
+## GEOData Visualization using Python & SQLite
 
 This project demonstrates how to retrieve, process, store, and visualize geolocation data using Python, SQLite, and OpenStreetMap APIs.
 
-# 📌 Project Origin
+## 📌 Project Origin
 This project is based on a guided academic assignment from the Using Databases with Python course (Python for Everybody Specialization) by the University of Michigan (Dr. Charles Severance).
 
 The original starter code was provided as part of the course.  
 I independently executed, customized, and extended the project to strengthen my hands-on understanding.
 
-#🔧 What I Modified
+##🔧 What I Modified
 - Replaced default sample locations with **India Bengaluru landmarks and public places**
 - Re-ran the complete data pipeline independently
 - Debugged execution issues and API delays
 - Added documentation and screenshots for clarity
 
-# 🛠 Technologies Used
+## 🛠 Technologies Used
 - Python
 - SQLite
 - OpenStreetMap (Geocoding API)
@@ -22,23 +22,24 @@ I independently executed, customized, and extended the project to strengthen my 
 - JSON
 - Command Line (Windows PowerShell)
 
-# 🔄 Project Workflow
+## 🔄 Project Workflow
 1. Locations are defined in `where.data`
 2. `geoload.py` fetches latitude & longitude using a geocoding API
 3. Data is stored in an SQLite database
 4. `geodump.py` generates a JavaScript file (`where.js`)
 5. `where.html` visualizes the data on an interactive map
 
-# 📸 Screenshots
-Screenshots of the terminal execution and map visualization are included in the `project screenshots/` folder and below.
+## 📸 Screenshots
 
-screeshot of running geoload.py in terminal
+# Screenshots of the terminal execution and map visualization are included in the `project screenshots/` folder and below.
+
+# screeshot of running geoload.py in terminal
 <img width="880" height="701" alt="running geoload py in terminal" src="https://github.com/user-attachments/assets/49b8fa5b-38e5-469f-a021-ecf2fd47d6bd" />
 
-screeshot of running geodump.py in terminal
+# screeshot of running geodump.py in terminal
 <img width="1357" height="713" alt="running geodump py in terminal" src="https://github.com/user-attachments/assets/480dd5ad-b833-4c6d-af76-8197f54b5f5f" />
 
-screeshot of mentioned india bengaluru locations data in map
+# screeshot of mentioned india bengaluru locations data in map
 <img width="1365" height="638" alt="mentioned india bengaluru locations data in map" src="https://github.com/user-attachments/assets/09413b66-149c-4f63-8db9-eab30787cef3" />
 
 
