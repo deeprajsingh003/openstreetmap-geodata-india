@@ -3,7 +3,7 @@
 This project demonstrates how to retrieve, process, store, and visualize geolocation data using Python, SQLite, and OpenStreetMap APIs.
 
 ## 📌 Project Origin
-This project is based on a guided academic assignment from the Using Databases with Python course (Python for Everybody Specialization) by the University of Michigan (Dr. Charles Severance).
+This project is based on a guided academic assignment from the (Python for Everybody Specialization) course by the University of Michigan (Dr. Charles Severance).
 
 The original starter code was provided as part of the course.  
 
