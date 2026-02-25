@@ -1,6 +1,6 @@
 ## GEOData Visualization using Python & SQLite
 
-This project demonstrates how to retrieve, process, store, and visualize geolocation data using Python, SQLite, and OpenStreetMap APIs.
+This project demonstrates how to retrieve, process, store, and visualize geolocation data using Python, SQLite, & OpenStreetMap APIs.
 
 ## 📌 Project Origin
 This project is based on a guided academic assignment from the (Python for Everybody Specialization) course by the University of Michigan (Dr. Charles Severance).
