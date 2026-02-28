@@ -7,7 +7,7 @@ This project is based on a guided academic assignment from the (Python for Every
 
 The original starter code was provided as part of the course.  
 
-I independently executed, customized, and extended the project to strengthen my hands-on understanding.
+I independently executed, customized, & extended the project to strengthen my hands-on understanding.
 
 ## 🔧 What I Modified
 - Replaced default sample locations with **India Bengaluru landmarks and public places**
