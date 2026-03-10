@@ -10,7 +10,7 @@ The original starter code was provided as part of the course.
 I independently executed, customized, & extended the project to strengthen my hands-on understanding.
 
 ## 🔧 What I Modified
-- Replaced default sample locations with **India Bengaluru landmarks and public places**
+- Replaced default sample locations with **India Bengaluru landmarks & public places**
 - Re-ran the complete data pipeline independently
 - Debugged execution issues and API delays
 - Added documentation and screenshots for clarity
