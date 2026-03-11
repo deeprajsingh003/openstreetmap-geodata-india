@@ -12,7 +12,7 @@ I independently executed, customized, & extended the project to strengthen my ha
 ## 🔧 What I Modified
 - Replaced default sample locations with **India Bengaluru landmarks & public places**
 - Re-ran the complete data pipeline independently
-- Debugged execution issues and API delays
+- Debugged execution issues & API delays
 - Added documentation and screenshots for clarity
 
 ## 🛠 Technologies Used
