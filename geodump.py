@@ -2,7 +2,7 @@
 
 # Original code provided by University of Michigan (Dr. Charles Severance)
 
-# Executed and modified by Deepraj Singh
+# Executed & modified by Deepraj Singh
 
 import sqlite3
 import json
