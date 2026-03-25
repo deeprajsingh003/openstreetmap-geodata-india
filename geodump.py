@@ -6,7 +6,7 @@
 
 import sqlite3
 import json
-import codec
+import codecs
 
 conn = sqlite3.connect('opengeo.sqlite')
 cur = conn.cursor()
