@@ -45,9 +45,9 @@ Screenshots of the terminal execution and map visualization are included in the 
 
 
 ## 📚 What I Learned
-- Working with external APIs and rate limits
+- Working with external APIs & rate limits
 - Storing structured data using SQLite
-- Transforming data between Python and JavaScript
+- Transforming data between Python & JavaScript
 - Visualizing real-world data on maps
 - Debugging multi-step data pipelines
 
@@ -57,5 +57,5 @@ Screenshots of the terminal execution and map visualization are included in the 
 - Integrate Google Maps API as an alternative
 
 ## 🧾 Disclaimer
-This project is **educational** and based on a guided course assignment.  
-All customizations, execution, and documentation were done independently for learning purposes.
+This project is **educational** & based on a guided course assignment.  
+All customizations, execution, & documentation were done independently for learning purposes.
