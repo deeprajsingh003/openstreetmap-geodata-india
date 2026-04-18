@@ -32,7 +32,7 @@ I independently executed, customized, & extended the project to strengthen my ha
 
 ## 📸 Screenshots
 
-Screenshots of the terminal execution and map visualization are included in the `project screenshots/` folder and below.
+Screenshots of the terminal execution and map visualization are included in the `project screenshots/` folder & below.
 
 ### screeshot of running geoload.py in terminal
 <img width="880" height="701" alt="running geoload py in terminal" src="https://github.com/user-attachments/assets/49b8fa5b-38e5-469f-a021-ecf2fd47d6bd" />
