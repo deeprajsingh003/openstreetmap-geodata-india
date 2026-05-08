@@ -11,7 +11,6 @@ import json
 import time
 import ssl
 import sys
-import
 
 serviceurl = 'https://py4e-data.dr-chuck.net/opengeo?'
 
